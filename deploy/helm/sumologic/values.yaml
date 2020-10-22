@@ -1557,7 +1557,7 @@ falco:
     jsonOutput: true
 
 
-##Configure optional OpenTelemetry Collector in Agent mode
+## Configure optional OpenTelemetry Collector in Agent mode
 otelagent:
   enabled: false
   daemonset:
